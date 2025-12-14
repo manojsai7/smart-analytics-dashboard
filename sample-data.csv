@@ -1,0 +1,16 @@
+product,category,sales,revenue,month
+Laptop,Electronics,1200,960000,Jan
+Smartphone,Electronics,2500,1250000,Jan
+Headphones,Electronics,800,80000,Jan
+Desk,Furniture,300,90000,Jan
+Chair,Furniture,450,67500,Jan
+Laptop,Electronics,1350,1080000,Feb
+Smartphone,Electronics,2700,1350000,Feb
+Headphones,Electronics,950,95000,Feb
+Desk,Furniture,320,96000,Feb
+Chair,Furniture,500,75000,Feb
+Laptop,Electronics,1100,880000,Mar
+Smartphone,Electronics,2300,1150000,Mar
+Headphones,Electronics,720,72000,Mar
+Desk,Furniture,280,84000,Mar
+Chair,Furniture,420,63000,Mar
