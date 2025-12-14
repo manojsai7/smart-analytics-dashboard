@@ -226,6 +226,7 @@ smart-analytics-dashboard/
 - Passwords are hashed using bcrypt
 - JWT tokens for stateless authentication
 - Role-based access control (RBAC)
+- Rate limiting to prevent DoS attacks (100 requests per 15 minutes per IP)
 - CORS protection
 - SQL injection prevention with parameterized queries
 - XSS protection through React's built-in escaping
