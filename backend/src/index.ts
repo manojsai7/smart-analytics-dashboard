@@ -1,10 +1,10 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
-import authRoutes from './routes/auth.js';
-import dashboardRoutes from './routes/dashboards.js';
-import dataSourceRoutes from './routes/datasources.js';
-import exportRoutes from './routes/export.js';
+import authRoutes from './routes/auth';
+import dashboardRoutes from './routes/dashboards';
+import dataSourceRoutes from './routes/datasources';
+import exportRoutes from './routes/export';
 
 dotenv.config();
 
