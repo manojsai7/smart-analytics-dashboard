@@ -1,0 +1,24 @@
+{
+  "name": "smart-analytics-dashboard",
+  "version": "1.0.0",
+  "description": "A sleek, self-serve analytics dashboard to explore data, build charts, and share insights with your team",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
+    "lucide-react": "^0.561.0",
+    "papaparse": "^5.5.3",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "recharts": "^3.5.1",
+    "vite": "^7.2.7"
+  }
+}
